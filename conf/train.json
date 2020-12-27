@@ -6,7 +6,7 @@
     "hierar_taxonomy": "",
     "hierar_penalty": 0.000001
   },
-  "device": "cuda",
+  "device": "cpu",
   "model_name": "TextVDCNN",
   "checkpoint_dir": "checkpoint_dir_a2g",
   "model_dir": "trained_model_a2g",
