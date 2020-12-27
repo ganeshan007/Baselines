@@ -1,0 +1,720 @@
+Dialog_Act,Utterance
+gt,"Jackie, How are you doing today?"
+gt,Alrght. How about you?
+gt,I'm doing well. Thanks for asking. I understand you've had some recent difficulties that have brought you to the agency
+id,"Yeah, I lost my job."
+crq,You lost your job?
+id,Because I failed drug test.
+crq,You failed a drug test.
+id,"So I have to drive golf carts sometimes for my job and I just really was not paying attention as I was driving through the parking lot and I hit a car. Then think it was a big deal. It doesn't even leave a big mark. Really. The car owner got pretty pissed about it and I found out that I did it. I got admitted to it. So I didn't want to be getting in trouble for it. So, so then they, since it was an accident, you know, I kind of hit my head a little bit to maybe take a drug test, and I had smoked some weed the night before. So I filled it and was fired."
+yq,Were you aware that this was an accident? You'd be protesting?
+id,"Um, you know, I? I don't I didn't know that. Now. I guess they might have told me at some point, but I I probably wasn't paying attention to it or had it I wasn't prepared for it."
+crq,So there have been consequences to losing your job.
+cd,"Um, yeah, I mean, my parents are not happy. I'm not making any money, obviously. So they, they're not very happy, relying on them for gas money for it. never go anywhere, do anything with my friends ask them for money. So they're kinda, you know, pushing me to get a job and help support myself again."
+irq,What type of work to do?
+id,"Um, I work in security, I kind of monitor parking lot, you know, take tickets, things like that."
+crq,"So, most of those employers would require a drug screen."
+id,"Yeah, that's, that's my problem. I've been trying to look for a new job. And pretty much all of them have required drug tests. So I haven't gotten a new one yet. So that's becoming a problem. So that's why i wanna i want to cut down but I haven't been able to. So I really need a job. I mean, all these things. It's kind of silly that all you know. I find it silly. It should be. Who cares if I smoke a little weed, you know, too. be illegal."
+yq,But you think it should be illegal?
+op,"Yeah. So I mean, not causing some harm really, and hurt anyone. So So yeah, I really do need a job. So I'm here to kind of get a handle on that."
+crq,So you want to stop using marijuana all together?
+cd,"Yeah, I'm gonna have to get a job, I think No, I don't want a random drug test again."
+irq,"All right, can you tell me about your marijuana use now? Like when was the last time used?"
+id,"Um, I actually say now at some friends my roommate this morning. Well, not my roommate but my friend that comes over and stays with me sometimes. And we guys did some this 'morning so."
+irq,So recently and how about the coke like when did you start using that for how long?
+id,"long time ago, I've been using proudly for Since I mean, since I was in high school, I started that's kind of just a big part of my life. And my friends do it. My friends do. So, yeah."
+irq,Any other drugs or alcohol or anything? 
+id,Just is just marijuana. Yeah.
+yq,Have you noticed over time you've been using more?
+op,"Yeah, I mean you know, I, I try to cut down a little bit I'll kind of say hello, just smoke a little bit and then you know, I'm hanging with hanging out with my friends will end up just being high for a really long time. And let's just all do all night. So."
+crq,So it's consuming a lot of time. 
+cd,"Yeah, yeah. Yeah. kind of always thinking about how I'm gonna get more and trying to get home again. And so it really does take up a lot of time and it's kind of a distraction. So"
+yq,you have a craving for marijuana
+on,"No, No, I guess not really."
+irq,"Now, have you had any social problems because your marijuana use?"
+id,"let's say other than my work, there's the word mean, my friends I'll do it there's a problem with it. So"
+yq,are there other important activities that you miss out on because of your marijuana use
+on,"now, I mean, I don't really do a lot so I don't really miss out on much"
+yq,Are there any activities that you engage in that are more dangerous because your marijuana use?
+on,this time Out of my basement and don't really do anything. So
+yq,do you have any history of mental health issues or medical issues? 
+on,No. No
+yq,Do you notice any anxiety or physical symptoms when you stop using my one?
+on,"No, I feel feel okay."
+orq,So how motivated are you to stop using?
+od,"Part of me doesn't really want to, but it's something I have to do. You know, I need a new job and I don't want to be relying on my parents for forever. It's pretty annoying. So I'm pretty committed to it. I would say, Yeah,"
+crq,you're committed to it. 
+op,Yeah.
+id,I'm gonna get you to see a counselor here if that's okay with you.
+op,"Yeah, that'd be really helpful. be helpful."
+gt,I appreciate you taking this time to tell me what's going on and answer my questions has been helpful.
+gt,Thank you.
+gt,"Jason, how you doing, sir? "
+gt,Okay.
+yq,You all right?
+op,I'm just here.
+crq,"You're just here, just here. I understand that you're in the hospital a couple weeks ago."
+cd,"Yeah, I was in the hospital about two weeks ago did something and I had to go to the hospital afterwards."
+irq,What happened?
+id,"yeah, so about two weeks ago, I was finishing up this wonderful machine that I was creating in my room, so that the government can't hear my thoughts or my, my actions or my behaviors. And I was just trying to finish up my last little bit that I needed to build and I went over to the neighbor, because their garage was open and just picked out a tool and brought it back to the house. And when I was in the house working on my my room, the cops came and picked me up and took me to the hospital. So it's like, see the government data to get"
+irq,what you think the government is trying to do.
+id,"They're trying to stop me from actually creating my room. Because they're, they're creating this new order where they want everybody to follow them. And I'm not a follower. And I know what I want. And I know what I need. And I know what my family wants, and I know what they need. And I'm just trying to protect them by creating my room."
+ci,And tell me about your room. What what are you doing there that makes that special.
+id,So I was smart enough to know that there are frequencies and waves that are out there that the government is actually sending you through the lights and also through the TV and like through every electronic apparatus that is out there. And I'm actually creating doll or a wave neutralizer so that it can actually stop that from happening. So that you can actually live the life that you want and be happy and youthful and joyful all the time.
+yq,Is that how you were feeling when you were building?
+op,"Yeah, because I created this prototype in my room. And anytime I'm basically in there I was, it was good. I had energy. I didn't have everything that I wanted. But my prototype was running out of fuel. And so I needed to make it bigger, larger, so it can run longer."
+crq,That's what you're trying to do
+cd,"Yeah, that's what I was trying to do when I wouldn't borrowed the tools from my neighbor but yeah, and then also I was ordering some things that were online. And they were also supposed to become be shipped in so that the base piece that I was creating, that I use the tools for my neighbor's house. It could have been all perfect and set so that when All of the hard drives in the electrical wiring and all of that stuff came in, I could just plug it in. And then not only my room covered, but also my houses covered and all of my family, they could just be happy."
+crq,"They could be happy, they could be happy, like, you know, you were happy."
+cd,"I was happy, like, so two weeks ago, I was I was good. I, I was up, I did all the calculations that I need to create. So I can actually build my base in my system. But then I also did the calculations about the different types of waves being in the house, but then also out of the house, that I also had the opportunity to just not sleep because I need sleep. I wasn't tired. And if I did sleep, I slept for like 15 minutes, just because I needed to finish what I was going to do. And I was so close to finishing and my neighbour called cops."
+crq,So you had a period of time when you had like a lot of energy and you weren't really sleeping much
+crq,Doesn't everybody do that?
+id,You're also happy and felt energetic
+id,I felt good. Like when I when I sleep I don't like when I sleep because it just feels wrong.
+irq,And how do you feel now in comparison?
+id,"I'm alright guy. All right. Just All right, right now. The government maybe get on different medication. So just all right."
+crq,So not happy or sad.
+cd,not sad either. It's just you In the middle
+yq,Do you want to get back to that happiness
+op,of course who doesn't want to get back to the happiness of their life. That's the reason why you need to finish machine
+irq,Yeah. You mentioned you ordered some products online. How much did you order?
+id,"um, I think I ordered probably know the exact number I ordered 236 hard drives, because 236 is the perfect number that I needed to not only cover my bedroom, so I can always be happy and if the system went down, my room was always going to be covered. But then within that 236 it also covered my house so that my family could be happy, and like my four neighbors around us so we can all be happy. And that's the reason why I'm kind of angry at my one neighbor because I was including his house in all By my grid so that he can also be happy all the time."
+crq,He would have been affected by a machine.
+cd,"Of course, he's the helping hand. He helped me out. He let me borrow his tools. but evidently he didn't let me borrow him this time. So just pull him out. Have another neighbor take his place."
+yq,Were all those hard drives fairly expensive?
+id,"I don't know. When I was up cleaning and running around the house trying to find more equipment. I found my mom's purse and I was just like, oh my god, she has a credit card in there. Oh my god, I can use our credit card. So I was using our credit card because it's trying to make her happy. And so I don't know I added the 236. They were probably 50 to $100 apiece, depending on where it could get them and I just ordered them."
+irq,How'd your mother respond to that?
+id,"My mom came to the hospital and was like, where are all these boxes coming from? It's like this, but I'm in my room. And she put them into my room. And then, like a week ago, she has, like, I see my credit card, and she wants to happen."
+yq,Is that strange relationship?
+on,"No, that's just how we have a relationship generally"
+crq,"you get along, okay. "
+cd,"we get along perfectly fine. Like that's, that's how we talk to each other. Like, we talk to each other minimally, because she's not in my room, so she's not happy. So anytime she does come into my room, it messes up the balance. So I get unhappy, and then I just tell her to stay out so that I can be happy and she can be happy in her own place."
+crq,And you mentioned that they changed medications in the hospital.
+cd,The government changed for Medications
+orq,How are you feeling about taking your medications?
+od,while so
+crq,"Right, you you really want to get back to work on that machine."
+op,"Yes, I want to be back in my happy place. "
+yq,Have you found yourself as motivated these last couple weeks as you were before you're hospitalized?
+on,"Now? I haven't been that motivated. Big. I know I'm going to get it done. It's just I just don't know if I'm gonna get it done today or tomorrow, but I know what's gonna get done."
+crq,You still want to get that done. It's important to know.
+cd,it's really important because I Can't be controlled by the government anymore.
+gt,"by Jason, I'd like you to continue seeing a counselor here. If you found the counsellor to be helpful."
+id,The Counselor has been okay.
+gt,"But that okay, it's been okay. But we'll continue to counseling and hope that can can help you a bit. I appreciate you spending this time with me and explain what happened. "
+gt,Thank you.
+gc,"Jason, I don't want to be here"
+gc,Im here
+yq,you're good?
+id,"So I've been made to come in and talk to you. because something happened on the bus. And there I may have said something to somebody and they're just like, oh, you can't say that. So they actually said, we're going to take you to jail. from jail. They just called me here."
+yq,Do you know what you're charged with?
+on,They didn't explain anything. The government never explains anything. They just don't want me to understand what's going on because they just want to keep me out of captivity.
+irq,The government. Do you have anyone specific?
+id,"nope, it's the entire government, entire government, higher government."
+irq,How long have they been wanting to do this to you?
+id,all my life. I've done this all my life. They they're always listening. They're always around. They're always there.
+crq,always there?
+cd,"always there. Like, for example, they're in the lights right now. They're listening to everything that we're talking about. So that's the reason why I really can't talk about what happened on the bus because they're just going to use that against and then it's locked me up again. I think we take more minutes."
+crq,Even taking medications.
+id,"Yes, I take the medication, because if I don't take the medication, government comes and takes me away and puts me into a hospital where they force me the medication. And then the lights are always on and they can always hear everything that I'm saying and what I'm thinking and what I'm going to do."
+irq,Do you know what they want to do with that information?
+id,"wanting us to take over the world, to take over the world, people in the world, of course, they want to use everything and use everything that everybody knows to use it against them so that they can actually have the world they want in that baby and make everybody pretend that they don't know what's going on. So therefore, they're using everybody's thoughts against themselves, so that the government can use it to their benefit."
+irq,"So what can you do in a situation? Well, you said the government's monitoring everything and they want to put you in jail. If you don't take your medication, do have any options. Are you stuck?"
+on,"No. So when I'm home, I think I'm perfectly fine because I set up my house in my room to actually make it government proof so that nobody can actually hear see what's going on in there. So when I'm home, I'm perfectly fine."
+crq,"So one option is that being home, being home, you're safe"
+cd,being home and being home I've saved my mom saved my brother's save everybody safe. And being out in the world in the world. That's a nobody safe.
+yq,Are you safe here?
+on,"No, I told you they are employed, and they can hear everything that we're saying right now. So no, we're not safe here."
+cd,"It's just not safe here. It's not safe out in the world. At home, you're safe"
+cd,"at home and safe in my room, that I mean government."
+irq,"So if you could have your way you would, you would stay home most of the time all the time?"
+id,"I would stay home all the time, but I can't stay home because I mean to go and see doctors and talk to people and do the things that the government needs me or wants me to do. But I don't want to do those things because she's in my thoughts and they're trying to use everybody and get sleep. I can't deal with that."
+irq,"So how how do you know that they're in the lights? Like, how did you discover that?"
+id,Everybody knows that they're in the light. It's common knowledge. It's common knowledge. Everybody knows that.
+yq,Do you ever hear things that other people can't hear or see things that people can't see?
+id,"No, of course, everybody hears the lights talking to you. I don't know what you're talking about. Like everybody hears it. Sometimes it's a whisper. For some people. Sometimes it's a yell. And if you want to not pay attention to what the lights are saying to you, then I don't know what's wrong with you, but everybody can hear it."
+irq,What's the sound like to you?
+id,It sounds like a robot talking. It sounds like we need to know this information we need to what do you do.
+id,I'm just making some notes. Speaking some weird progress notes Does that worry you?
+op,Yes. where your notes gonna go?
+id,"Well, this chart will get locked in the chart room down the hall"
+irq,who has access to the chart room.
+id,Mostly everybody works here.
+yq,Can I get a copy of your notes after you're done?
+yq,Does it worry that there's notes?
+op,"Yes, because I might trust you. And I don't know if I do yet. But I don't trust the other people who work here because I don't know if they're working for the government, which they probably are working for the government. So they can actually have access to all of my notes and the things that you're writing down, which I don't know what they are, because you're not going to give me a copy of it yet. And I just don't trust that they can actually get that information and because they're going to use it to their advantage and they're going to give it to the government, which I can't have that. So could you please not take notes?"
+id,"I could not take notes, what kind of information and notes are you worried that the government's gonna get?"
+id,"Well, because I made my room at home government proof, I think they're going to try to steal that technology when I actually create it so that they can then disrupt my room and then everybody else's rooms who are just like mine so that they can then use their mind control to then control me to do the things that they want me to do."
+crq,"So without the protection that your house offers, they could control your mind."
+cd,"Correct. Without my room, and without the technology and the systems and the things that I created, then the government will be able to control everything that I do."
+irq,"All right. So can you tell me about your mood through all this, this sounds really stressful you're describing environment where the government's frequently Looking at what you're doing for the feelings are you feel sad or angry?"
+id,I feel fine
+crq,You feel fine.
+cd,"I don't really have any problem Yeah, I just I feel fine. I don't feel happy. I don't feel sad. I just, I'm just here"
+id,kind of resigned the government's gonna do this
+id,"well, the government's gonna do what they're gonna do anyway. So it doesn't matter if I'm happy sad, pissed off angry. any of that the government's going to make me do what they want me to do anyway. So it doesn't matter how I feel."
+yq,Are you worried that something is going to happen a similar will happen on the bus?
+on,"No, because I've learned my lesson to not say those things out loud into to talk about what the government's doing because I can't actually inform anybody else because nobody's listening to me because They're already controlled by the government because they don't have a room like I do at home."
+id,"To avoid that in the future, because it didn't really, it didn't really work. You weren't able to, to help them understand what's going on."
+id,"While people don't understand what's going on, then that's their fault. that's their problem. They should have listened to me. And I could actually gave them the technology that they needed to actually create the room so that the government can't hear them."
+crq,But they weren't open to that idea. 
+id,No. Quite the opposite. It is completely opposite.
+irq,How are your family relationships?
+id,"Okay. Yeah, we live with my mom. She does that she's supposed to she doesn't go in my room because she knows that. She goes into the robots gonna mess up the technology so she stays out."
+irq,So you get along through okay. Anybody else you have contact with? friends family?
+id,"I talk to people all the time, but they are in my head. We have conversations all the time about how we can actually make the world a better place and then how we can actually go through and then destroy the government or do good. Just pump it up."
+id,"Jason Well, I'm sorry to hear that you're under stress. I'm glad to hear your feel like it's okay. You're not down or anxious or anything. This answer these questions for me this has been helpful. And I'm going to recommend you continue to see a counselor here if that's okay. I realize your court ordered didn't come through."
+id,that would be good
+id,"Well, then I'll put on the schedule. We'll set a time up front, where I'll see you. Let's say in three days. That works?"
+id,Three days works.
+gt,"Then we'll go from there. Okay. Thanks, Jason. "
+gt,Thank you.
+gt,"Jackie, how are you?"
+gt," Okay, How are you?"
+id,thanks for asking. I see that you have signed a release so I could talk to your mother and that she brought you in today.  What's What's going on there?
+id,They think I have a drinking problem. My family..
+crq,your family thinks show drinking problem.
+op,Yeah. So we really started this was this past weekend. They came to pick me up for my bridal shower. And I was I was drunk when they came to get me so I couldn't go and now everybody's pretty pissed at me.
+crq,So they asked you to come into the agency.
+cd,"Yeah, you know, I don't want them to hate me or anything. So I agreed to come."
+yq,Do you believe that you have a drinking problem?
+op,"I mean, I like to drink."
+yq,You think It's okay?
+op,Yeah. I like I like it like drinking.
+yq,"Come on, you mind if I ask you a few questions related to drinking,"
+op,that's fine.
+irq,"So, how often do you drink now?"
+id,"Pretty much every day. I drink every day on the weekends for sure. Like, during the week, I'll go to the whatever the best local happy hour is, you know, scope out what's going on. So I'll go after work and have some drinks."
+irq,What about on the weekend?
+id,"weekend I gotta keep to myself. still drink a little whatever I have in the house, but I don't really go out a lot of weekend mostly to stay at home and yeah, drink whatever I have there."
+irq,"How much you're drinking, let's say on the weekend"
+id,"it's hard to keep track of thing. Say a couple cases over maybe like two or three cases of beer throughout the weekend. If there's something on sale, you know, at the liquor store down the street, okay, I like a bottle of vodka or something to go along with it."
+irq,"All right, how about during the week?"
+id,"during the week, I just stayed at the bar for a few hours maybe have like, six or seven drinks and then go home."
+yq,Are you drinking More than you want to?
+op,"Um, I guess so. I mean, I've kind of tried to make a plan to just say on the weekends to drink some. And that hasn't really kept up because I like to go to the happy hours and stuff."
+yq,"So, so you've tried to cut down before?"
+on,"yeah, it's not really happening. Not really see it happening."
+yq,Do you have cravings for alcohol?
+op,"Um, you could say so yeah. I'm at work I want to drink and out doing stuff. I want to drink."
+irq,So are you using exclusively alcohol or are there other drugs involved?
+id,"Right now just alcohol and all legal stuff . I was impatient. A couple times for cocaine, but I've stopped. That's not really something I want to do anymore. So"
+irq,when was the last time you're impatient?
+id,"About four months ago, five months ago,"
+crq,four or five months ago? And at that time you use cocaine.
+op,Yeah. I was using
+irq,And why did you stop using cocaine?
+id,"Well, I graduated from college, I was kind of a partier in college, and then I had to get a job and it's kind of now had a fear of losing my job because of the cocaine and I'd get a drug test and stuff. So that's kind of in the back of my mind with that. So yeah. I think that the treatment helped with that."
+yq,You crave cocaine?
+on,"No, mostly just alcohol. Just"
+yq,how about Your work are you having a trouble keeping your job or your performance your job?
+on,"Um, I think I'm not doing tip top of what I could be doing but yeah, it hasn't really been a problem. I haven't been threatened to be fired or anything like that. But you know, I'll come in late every once in a while but I I sneak in so nobody notices"
+irq,any social problems because of the alcohol use?
+id,"Um, with my family kind of right now. Yeah. Not really getting along with them very well. My friends, though, when I go out them during the week where you get along fine, but they're just not really as fun as they used to be. So sometimes, yeah. Sometimes they want to do stuff and go to the movies or whatever. And the ello mad because I don't want to go I'd rather go party somewhere. So"
+crq,you have some social problems. Not so much with your friends a little bit but more with your family
+cd,"more with my family. Yeah. I mean, I guess my friends aren't that happy with me but I don't think it's a huge deal. My best friend I haven't talked to in a couple days because she she is mad at me for not coming to dinner with her the other night because I look rather drunk and I want to do that. "
+yq,Have you found that you're engaging in any activities are physically dangerous because of alcohol?
+op,"Um I've gotten hurt a couple times. I mean, fallen down the steps, but I'm not calling like, skydiving or anything, you know? So I did sprained my ankle a couple months ago because I fell on the steps but Okay."
+yq,Do you find that you have any exacerbation of symptoms you have already? Like any medical or mental health problems made worse by the alcohol?
+id,"It's a pretty healthy. Yeah, yeah."
+yq,So did you notice the point after you started drinking when you had to increase the amount that you're trying to get the same effect?
+op," Oh, yeah. "
+irq,When did that happen?
+id,"I think I kind of go through phases with it, you know, I'll drink a certain amount for a little while and then I'll notice the I'm not drunk anymore, so I'll have to drink some more."
+irq,When was the last time you noticed that when you had to drink a lot more to get the same effect.
+id,"Let's say like, last weekend, you know, I was Got a couple beers in my house and the few hours have passed and I drank probably like, and 12 beers and I wasn't feeling anything. So start drinking a little faster and let us start, you know, feel a little better."
+irq,How about withdraw? Do you have any symptoms of withdrawal when you stop drinking? Like physical symptoms anxiety?
+id,"I mean, I want some more. For sure. craving"
+yq,"Ok, Jackie, are you open to seeing a counselor here at the agency?"
+op,"I think that's what my mom really wants. So, so maybe they'll try it out once or twice and see what happens but I guess to make her happy."
+id,So you are not sure what to try it out. Yeah. I'll get you scheduled to see a counselor. I want to thank you for telling me about what's going on and for answering my questions. It's been helpful.
+gt,"Yeah, sure."
+gt,"Okay, thanks for asking. I understand you've been having some difficulties that have facilitated you come into our agency."
+id,"Yeah. Well, I mean, I've been drinking a lot more than usual, but it's kind of just part of my life. But I don't know, I think there is an increase. So it's, that's worrying me a little bit."
+cd,"so you feel like you're, you're drinking more than usual. How much are you drinking now?"
+id,"I'm gonna go out with my friends a couple nights a week. Then about once or so we go out with my co workers. So yeah, maybe three, four nights a week,"
+crq,three or four nights a week? 
+cd,Yeah
+irq,And how much are you drinking each time to go?
+id,"Um, you know, kind of depends on who I'm with. But usually when I go out my friends on the weekend, I'll stay for a pretty long time. I mean, I think the problem is when we're going out during the week with my co workers, you know, I'll stay longer than I want to, and then when I have to get up in the morning, it's kind of like I should have gone check out a little earlier, but now they're all out with me. So when I get there, they understand."
+irq,"Alright, so do you know how much alcohol you consume in the time period. Do you know how much you're actually drinking?"
+id,"Each night we approximately I used to drink, like, maybe two beers an hour, but they really like to party so and I was trying to keep up with him. So, friends, yeah. And so I've been drinking like a shot with the beers I have. So maybe like three or four drinks an hour."
+irq,So do you find that you need to drink more to get the desired effect?
+id,"Um, yeah, you know, everyone else is getting to that level. So I feel like I need to keep up with them. And usually before I would get that from maybe one or two drinks. So now, I've been working a little bit more, I think,to get there. "
+irq,Have you made any attempts to cut down on consumption?
+id,"You know, at the beginning of the week, I'll kind of say I'm only going to go out twice this week. But then they invite me and I'm like, Well, I don't want to miss out or my, my friends, you know, it's my show my social time during the week, so so I usually go, they don't really stick to the plan. So that's kind of been a little frustrating, but I know it's still good."
+irq,"It's okay. So, I want to talk about the time you spend using alcohol. Are you are you okay with the amount of time you mentioned that you're using for longer periods? But are you okay with? Or is that something that's distressing you?"
+id,"Um, I think I could probably be doing better things with my time, but it's not a huge problem. I think a lot of people do it. So you know."
+yq,Do you find that you have a craving for alcohol?
+op,"Yeah, yeah. I would say like, one of the work just Ready to get finished so I can go go to happy hour with my co workers or, you know, from just kind of at a barbecue or something with family. Think about how I want to be here. So yeah, great things, but no, everyone kind of does that. Like I could go for a beer right now."
+crq,"So you're thinking about it, but you also like feeling the craving."
+op,"Yeah, yeah, yeah. Yeah."
+irq,"You mentioned work, you're having trouble with responsibilities at work or any other area?"
+on,"No, my work life has been pretty going pretty well. I haven't missed work because of it or anything like that. So because of the drinking."
+yq,Have you had any social problems due to the alcohol?
+on,"No, I think my social life is actually great because of it. You know, hang out with my friends and you'll get along really well. So that's my social time."
+crq,All right. So no social problems. 
+cd,"Yeah, no problems."
+yq,Have you had to give up any important activities because of the alcohol use?
+on,"activities? Well, usually the important activities involve drinking so that I haven't given up important activities that don't involve drinking. But that's been pretty easy because there's usually alcohol at that point."
+irq,You haven't missed any important activities. How about engaging in activities that are physically dangerous?
+id, Because I'm also involved now and I'm usually pretty safe. Yeah. So
+yq,Do you have any medical or mental health history?
+op,"Um, well, like when I was a kid, I was diagnosed with I think, maybe ADHD or something like that, but I think I teachers were annoyed by me because I was just like, damn good time. So but that's why Got an issue lately"
+crq,some issue now? Has any medical problem or mental health problem become worse because of alcohol?
+on,"Um No, I started drinking after that so not now it's not become an issue with that."
+yq,So you mentioned the alcohol use. Has there been any drug use?
+on,"No, not with my drinking or anything you know, typical teenage smoking marijuana and stuff when I was younger, but I don't anymore so."
+crq,So it's just alcohol?
+cd,"Yeah, just alcohol."
+yq,"All right. When you stopped drinking, do you have any physical symptoms or anxiety any symptoms of withdrawal?"
+on,No. usually feel fine afterwards. I can go a few days without okay.
+ack,"Okay, so that's not a problem. All right. Jackie, open to Receiving counseling services or agency? "
+op,"Yeah, let's see why it would hurt anything. I don't really need it but it was okay with trauma,"
+gt,"I think okay, okay. All right. I'm gonna get you scheduled in to see a counselor. I want to thank you for telling me about what's going on for answering my questions. It's been helpful."
+gt,Yeah. Thank you.
+gt,"Hi Chucky, How are you doing ?"
+gt,I'm doing good. What about you?
+irq,Yeah me too thanks for asking. I understand you've been having some difficulties that brought you in to our agency.
+id,"Yeah, I'm really worried about my drinking."
+irq,You're worried about your drinking. Tell me about your drinking.
+crq,"So sometimes at work, you've been having cravings for alcohol and the other There are times when you will have a craving?"
+id,"Yes, kind of at home, you know, not really doing anything for a period Hmm."
+irq,"So other than that feeling of having the craving, is there anything you do after you have a craving?"
+id,"Um, yeah, sometimes I'll, I'll have a drink. And I just feel like I want to get into it."
+irq,How much do you drink?
+id,Like a beer or two.
+yq,Is this when you work in a day? 
+on,No
+yq,"So when you're having cravings at work, you're not drinking there?"
+on,"No, no."
+irq,Right. So tell me about your typical alcohol consumption week.
+id,"Like Do on Fridays after work, you know, after a long week, that's kind of when I really crave it. Like, go have a drink with some friends. I'll have a drink sometimes with dinner. If I'm at a social event, kind of feel like I want to have a drink, and I don't really want to feel that way. I feel like that might be a problem."
+crq,You're worried that the craving is indicating you have an alcohol problem?
+op,Yeah.
+yq,Have you ever tried to cut down your drinking and you're unable to do so?
+id,"Um, well, I mean, usually I'm, I'm able to limit my days if I say I'll just going to go to a party this weekend. I'll have one and then Yeah, usually I can stick to it, too, I guess."
+irq,You spend a lot of time trying to obtain alcohol.
+on,"Um, no, I, I guess not. I've I mean, I think about where I want to have a craving I think about like, when I want to have it, but I don't really spend a lot of time thinking about it or trying to get it."
+yq,How about in terms of your responsibilities? Have you failed to uphold any responsibilities because you're drinking? Or you have any social problems because you're drinking.
+on,"Well. No, I guess not. I mean, I get really friendly when I have a drink. So I don't really think that's a problem. But you know, I guess not."
+irq,It doesn't cause social problems. Do you find yourself giving up important activities because you're drinking instead?
+crq,"So thinking about it, maybe still some craving, but you're still going. You're still participating."
+op,Yeah.
+yq,Are you engaging in activities that are dangerous?
+on,"Because of the drinking, no."
+yq,Drinking and driving?
+on,"Well, no."
+crq,There's nothing like that. Yeah.
+cd,No. I wouldn't say worse. No.
+yq,Do you have any medical or mental health problems in general?
+on,No.
+yq,Do you find that you have to increase the amount of alcohol you're drinking to get the same effect?
+on,No.
+yq,"all right, and you've been drinks you save a drink about the same amount each time you drink. Have you noticed that the effect has been diminished, like you're not getting the same effect from the alcohol?"
+id,I usually feel the same.
+yq,"Goes same way. Yeah. Have you ever noticed any symptoms when you stop drinking, like withdrawal?"
+crq,What do you mean by withdrawal?
+cd,"Like when you stop using alcohol, are you finding that you're anxious, depressed, you have physical reactions like that. "
+on,No.
+gt,"Okay, Jackie, I appreciate you. Tell me about what's going on and answer my questions. If you're okay with it, I'll get you in to see a counselor. I'll get that scheduled. And we can go from there."
+gt,"Okay, thank you very much."
+gt,"Jackie, you all right? "
+on,been having a rough time.
+crq,been having a rough time?. I understand there have been some difficulties lately to push into the agency. Tell me what's going on.
+id,"Um, you know, about a week ago, I went out with some friends to a boxing match and I didn't really want to go I've never I've never really been to one. It's not really something I'm interested in. But I was just hanging out with my friends and stuff. Yeah, I watched a few fights in this this one fight sky. He nothing was really happening. I wasn't really into it. But this guy got knocked out right in front of me. It was really close to The ring got knocked out right in front of me fell right on his face. And I just saw him lifeless in front of me. And I just never said sons have been saved. I had to leave right away. I just couldn't. Couldn't be there anymore."
+irq,"And what did you notice right away so, so one of the boxers was sounds like knocked out a noose. You saw that. What did you notice right away was happening."
+id,"I just felt really, really scared. You know, my heart started racing. I kind of didn't really know. I couldn't focus on what was going on around me. I just had to get out there. So you know, I don't even really know what happened to him if he was okay or not. So I just couldn't handle how I was feeling so I had to leave"
+crq,"So you left and the symptoms, they continued."
+cd,"Yeah, pretty much daily for the past week. I got home that night. I couldn't sleep You know, it took me almost all night to fall asleep and then at work on Monday, I was having a lot, a lot of problems there."
+irq,What was that about?
+id,"I couldn't focus on anyone was talking to me at a meeting on Tuesday. And my boss was you know, talking for a while and I just, I felt like I couldn't concentrate at all you know, everything is kind of just a blur around me."
+crq,"I do find that you're having memories of the, the incident of the boxing match that are Kind of intrusive."
+op,"Yeah, I think about it a lot. Pretty much all the time."
+gc,But I suppose some for you. 
+id,"Yeah if I'm at work trying to get some paperwork done or something, it just pops in my mind and I can't make it go away. "
+irq,"And you try but you Yeah, remember any dreams related to it?"
+id,I haven't really been dreaming about it barely sleeping
+irq,any times when you feel like you're reliving what you saw like you're seeing it again.
+on,No not really just think about it a lot
+irq,Does anything keep reminding you of the boxing match? And then that's causing you to have symptoms?
+id,"Yeah. With my meeting, people started clapping. You know was big cheering and That kind of made me feel really, really bad again, my heart was racing, start sweating and just kind of reminded me of being there and start thinking about it again. So, things like that, you know, pump up music when it comes on the radio, same kind of music they played there. Kind of makes you feel the same way my heart starts to race. It just kind of feel like I need to get away from it."
+irq,"Do you find yourself working to avoid like, music too similar?"
+op,Yeah. I've been trying to avoid the radio because you never know what's going to come on on the radio. So I've been avoiding listening to music in case something like that happens and putting crowds
+yq,Do you find that you've had any trouble remembering what happened?
+on,"No, I can. I can pretty vividly remember it. It's pretty clear to"
+yq,you Have you been irritable at all since the incident?
+op,"Yeah, you know, just out of nowhere. Something doesn't go the way I wanted to I just kind of snap on people. And that's not like me at all. I usually am pretty easygoing. And, you know, people, my boyfriend, for instance, right? I yelled at him the other day for not putting the toilet paper on the roll. And that's not something I'd usually care about. It's just, it's not me."
+irq,"How about your awareness level of what surrounds you? Do you find that your awareness level has increased that you're, you're more aware?"
+id,"kind of depends. Sometimes I kind of feel like I'm in a daze and don't really know what's going on around me. But um, I've been one of the students that I work with the the pop up out from behind the door, which he would do all the time. And you know, typically, I would laugh and think it was funny before but he did the other day and I just could not control myself afterwards. Like, I couldn't calm myself down. You know, I didn't think was funny at all. It really, really scared me. And that went on for about 1015 minutes and I just my heart was racing. I had to go take a walk and just really hard to relax and after that,"
+yq,so you feel like your reaction to that was stronger than it normally would have been?
+op,Definitely.
+yq,Have you used drugs or alcohol recently? 
+on,"No, no"
+yq,Any medical problems?
+on,No
+id,"So Jackie, I'm going to get you in to see a counselor here at the agency if that's something that you're okay with."
+hp,"Yeah, I think that would be really helpful."
+id,"Just take a couple days to get you on to get you in to see somebody to get you on the scheduling agenda, see somebody and I'll get that arranged. "
+gt,"Okay, thanks"
+irq,"Well, how can I help you today? "
+id,I'm exhausted and shattered the whole time. And I'm fed up. I'd like you to do something.
+irq,And how long has this been going on for?
+id,"about six months, and I've been in loads of times, I've seen lots of different doctors. I've had scans and blood tests that you name it, and nobody can find out that they will. Nobody can see there isn't anything wrong with me. The last doctor I saw, so it was all in my mind. "
+irq,I see. Perhaps we can start by getting a fairer understanding of what's been happening. What is the main problem for you?
+id,I feel exhausted the whole time and I can't get anything done. Work is becoming a problem.
+irq," I Understand, and what sort of work do you do?"
+id,I work as a computer programmer. Luckily I can work from home a lot of the time because I find it difficult to get up in the morning.
+irq,And how's your sleep?
+id,"sort of okay, but then I I toss and turn all night and. And I feel terrible in the morning. So you don't find sleep very refreshing, but no, it makes it worse. If anything. I wake up feeling awful then late wake up really late and not often after 11:11am "
+yq,do you get sleepy in the daytime?
+op,"Yes, I do. Because I get so tired. I often need to take a rest or a nap during the day."
+irq,Are there any other physical symptoms that are causing you problems at the moment?
+id,"My muscles ache quite a lot. My legs, my arms, my back. All over. Really."
+irq,muscle aches all over your body. any symptoms?
+id,I get a lot of sore throats. And I think there might be some kind of infection running around my system.
+crq,You feel that there's an infection running through your system?
+op,Yes. And why else would I feel so ill all the time.
+ack,I see. Is there any other reason you think your symptoms might be caused through an infection?
+id,"Well, it all started when I had a really bad dose of the flu."
+id,"Alright, so let's see if we could just talk about the moment of the presentation again. I want to try to help you develop some strategies to bring those anxiety symptoms down. "
+ack,"Okay, right. "
+id,"Let's actually go right before the moment so you're still in the, you're still sitting down, and you're getting ready to present. Let's just say your second present. Yeah, like we've talked about and you're thinking they're going to seeming as anxious. They're gonna think I don't belong here. These are the right. Okay. So these thoughts occur because you have an expectation rule one add to that you brought into that class, when you walked into that class, you have these expectations already. It's perfectly natural. It's not right or wrong. Everyone has these beliefs. And whenever these beliefs are and we'll talk about that another point, they combined with the stressor of having this presentation in front of you, right, and the classmates watching you, and they result in these thoughts. We call them automatic thoughts, "
+ack,okay
+id," And just like the beliefs, they're not good or bad. They don't say anything about the person having them. They're just thoughts. Actually, they're fairly understandable and natural thoughts. The problem is that they lead to symptoms. So, you're sitting there at your desk, and you're thinking, they're gonna see that I'm anxious. They're gonna realize I'm not good enough. I think I'm not good enough, right? What reaction Do you have when you have that far?"
+id,"I guess I'm like very observant, like I started looking around, like, I'm sweating. Like I'm having physical responses, and I'm looking around to see if anyone's already looking at me, like hyper vigilance."
+id,so distressing symptoms.
+ack,Yeah.
+irq,"What's something that you could send yourself in that moment, that would maybe get in between that thought, and that reaction, so that thought of, I'm not gonna know I'm not good enough. I think I'm not good enough. And that reaction"
+id,"I mean, I think in that moment, most people are looking at the person who's presenting and not at me. And so that, you know, I can maybe like, take some deep breaths or try to calm myself down. Maybe like look over my notes one more time. Because they're all watching the person who is presenting not me."
+id,"Okay. So some some deep breathing, looking over your notes, like preparing yourself for kind of focusing on that and realizing they're not really looking at you anyway for a moment. Okay, good. Good. Um, you bring your notes with you to class?"
+id,"I mean, like usually have like index cards, or maybe like some stats on something that I want to look over like some numbers or something I don't want to forget."
+yq,Okay. So You always have those with you.
+op,Yeah.
+yq,It's just a matter of can you focus your attention on them?
+id,"Right, exactly enough to not forget them."
+crq,"And you know, if you're focusing on that, and you're thinking about that, you're not thinking about whatever they might be thinking about"
+cd,"Right, exactly."
+irq,And how about the deep breathing? Is that a strategy you've tried before?
+id,"a little bit, but with not much success, because usually when I think to remember it, I'm in, you know, panic mode, and then it's really hard."
+crq,So you've been able to do it sometimes.
+op,"Yeah, not often, not consistently."
+irq,any other evidence that points toward you being imposter?
+id,Besides My bad grade? Not a whole lot.
+cr,Right. So to be safe to say that a lot of that thought of I'm not good enough is kind of based on your feelings of anxiety.
+op,Yeah. Which are really intense like panic almost in the moment.
+cr,Yeah so in a way you're believing With the anxiety will lead you to believe.
+op,"Yeah, definitely. "
+id,"But in the bright light of scrutiny, there are a lot of facts to support the worst case, which is you don't deserve it. How about evidence that refutes that you're not good enough?"
+id,"I would say that, you know, I was accepted into the program. Like there's kind of like, a pretty rigorous sort of testing and stuff, which I passed, to get interviews and such to get into the program. So I did that. Like I said, I'm a pretty good student, all considering, you know, before this kind of flick was happening."
+id,"Okay, so you've got through a rigorous process to become a student You're doing well. You mentioned before, just the one bad grade right? Okay, so if you have friends in this program, right, if one of them came to you with this, this balance of, you know, one bad grade and some anxiety, yeah, versus passing, you know, rigorous standards and doing well, otherwise, what advice would you give them?"
+id,"I mean, now that you're kind of like talking about it, like, you know, this or that sort of thing. It makes sense. I would probably say that, well, you seem to be doing pretty well so far. You know, that anyone evaluating would look at all of the cumulative how you're doing your performance, rather than that one grade"
+orq,would you feel comfortable giving advice to yourself?
+od,"I think I tried to sometimes, but my anxiety symptoms kind of like really, like you were saying, your anxiety tells you sort of I think I can think that but I think my anxiety symptoms are such in the moment that it's really hard. You know, and I'm replaying what happened before in my head anticipation predicting will happen again."
+orq,"So, so let's look at the the thought and the feeling. If you had to rate the percent that you believed this thought, this belief that you are not good enough to be in the program, like right now right now, yeah, but here with me. How much of your mind believes that that's true?"
+od,"I would say like, you know, a two or three like not very, I don't believe it very much right now because You know, I'm not presenting and it's just you and I not like a group full of people. So that pressure is not there here."
+crq,So right now you're really not buying the idea that you're not good enough.
+op,"Yeah, that is correct "
+irq,"So now let's move to let's say right in the near the end of presentation when that anxiety is there, and the classmates that could be looking at you, it could be negatively evaluating you because you're worried about how much do you believe that thought then?"
+id,"I don't feel really confident. In that moment. It feels very real. Like, like any moment, they're gonna kick me out. Like, I'm just not doing well. I'm stuffing."
+irq,"Yeah. really intense. So would you think that you were a more accurate evaluator of what's true or not. Now, or when you're in that state of anxiety,"
+id,"definitely now that anxiety that, you know, heart rate and sweating is not there."
+irq,"So this evaluation, the percent that you believe that true, this evaluation is more accurate?"
+op,"Yes, I think so."
+irq,"And how much time in any given day would you spend kind of in a mood right now, or you can evaluate accurately?"
+id,"I would say, you know, when I'm not at risk of presenting, like, I feel like I spend the majority of my time, like, it's not something I worry about all the time, just leading up to and then mostly that day,"
+crq,"okay. So the, so you're able to evaluate the way you are now, the vast majority of the time, right? There's a limited amount of time when you're not when there's A lot of motions going through, right? And at those times, you're maybe a little less reliable,"
+op,right. Like my judgment is clouded.
+yq,"However, in that moment you still, those thoughts are strong, right? "
+op,"Yes, very troubling. "
+crq,"Even though it's a small percentage, it's intense. And you kind of carry that around a little bit."
+op,Yeah. Exactly.
+id,So I can see why this is frustrating for you.
+irq,"Alright, so let's see if we could let's rank those two things. Right so one is everyone's judging me how I was and the other is a poor grade. Which one is larger fear for you?"
+id,I would say maybe like judging.
+crq,"Okay, so the grades a concern."
+cd,Yeah but I figured I could do better on the subsequent one but when people are have this opinion of you I feel like that doesn't go away as quickly
+crq,What would it mean? If they they thought you were anxious during that presentation?
+cd,I guess I worried that they would think I'm anxious because I don't know what I'm doing or I don't belong there. 
+crq,"So if they notice your anxiety, then they think you don't belong in that level"
+cd,"Yeah. Like, I don't deserve to be in that program."
+crq,"If they don't recognize those symptoms, they wouldn't think that, do they?"
+cd,they might write that maybe they think that's why I'm anxious or that's why I'm not doing well.
+orq,"Well, how do you feel about your abilities and status in the programming room?"
+od,"I think you know, typically, I'm one of the top students in my program, and I've seen two Get the concepts pretty well. It's just when I have to demonstrate those concepts or demonstrate via, like a presentation or something, that I'm worried that, you know, maybe I'm an imposter or something, but so I start to question myself. But I think in general that, you know, I'm a pretty good student before this. And I'm doing pretty well in the program."
+crq,"So you're a good student, you recognize that you have this one area where you don't feel like you do a great job. That's presentations. In terms of grade, you really only had one bad presentation. But grades aside, you're anxious. And you're worried your classmates are gonna pick up on them."
+cd,"Yeah, exactly."
+irq,Okay. So if they thought you were us were imposter. So if they thought you were imposter to say that that was something they actually believe because of what's been happening. What would that mean? What would it mean to your classmates that you were an imposter?
+id,I don't know. Maybe I am. Maybe I don't deserve to be there.
+crq,You don't deserve to be there.
+cd,like maybe I shouldn't be in this program. I think they should just drop out.
+crq,"So if they believe you're an imposter based on these physical symptoms, like anxiety and mood that means to you anyway, that that means you shouldn't be on there."
+op,Yeah.
+orq,What's it feel like to say that
+od,"Depressing I feel like I've worked really hard. You know, to get through atleast halfway through my program. And it really hurts to think that that will be true."
+id,"Just think this whole time you really been given faking Do you really belong there?. So I'd like to move a little bit into evaluating evidence. So in this kind of therapy, we like to look at what, you know, what we're feeling and what we're thinking, and what's we can see what's observable around us. And, you know, that becomes evidence and then we analyze it, evaluate it, okay. You're worried at some level. You're worried that you don't deserve to be where you are right now. Yeah. That you're not good enough. To be a student in this program, yeah, programming. What evidence supports that belief that you're not good enough?"
+id,"Now that I'm thinking about it here, I mean, there's not a ton to support. But in on that day, I can think of all sorts of, you know, things to tell myself"
+irq,what's going on that day.
+id,"So maybe like I'm not prepared or because I'm messing up on the presentation that I'm going to get a bad grade and you know, if I can't speak in front of people, how am I going to speak in front of kids as a teacher, you know, one day that it will translate to something else. I can't get past this."
+crq,"So even if you survived the program, somehow you might be bad at your job"
+op,yeah
+irq,Does the feeling itself of not being prepared interfere with preparing?
+id,"Yes, it's really hard. So like when I'm in the middle of being worried, I'm it's really hard for me to focus. So I can't focus on like what I need to do. Because I feel like my mind is on a lot of different things and I can't focus on you know exactly what I should be doing. It's just like, I'm worried about You know, all the different aspects."
+crq,"Alright, so your ability to concentrate and do the hard work of preparing is affected"
+cd,"Yeah, it's like focus my energy on the right things. I'm just like wasting time worrying."
+crq,"Alright, so this excessive worrying and all this interfering of preparing all this goes on right up until you're getting ready to present"
+op,Yeah. And then like while I'm presenting
+crq,so let's talk about that let's go into the actual day a present so we have a successive work coming in it's interfering with your ability but it's distressing for you.
+op,Yeah.
+irq,Now these presentations are in class? 
+id,Yeah
+irq,So it's you're in you're in the classroom. Do you write the only one to present in that classroom is it rotate through several PV?
+id,"It depends on the presentation. Sometimes there's like one or two other people that have to present that night, depending on like how long the topic is."
+irq,"All right, well, let's choose the last time you presented that classes as a template. What was the order to go in there?"
+id,"Well, the one that I really messed up, I think in that I was first But usually, like, I'm like, second maybe."
+irq,"Okay. So for this example, let's say you're through the second. Okay, so you're sitting in the classroom and another student is presenting. What's going through mind that?"
+id,"I feel like I am totally zoned out. Like I'm not even paying attention to what that person saying, because I'm so worried about how I'm gonna mess it up. You know, I'm, I'm starting to like be sweaty, like my hands are clammy, my heart started to race a little bit, and I'm just totally zoned out on what they're doing. Just, you know, worrying about what's gonna happen when I get up there."
+id,"So in that moment as you're seated, you're not really watching their presentation as much because you have these strong or somewhat strong physical symptoms. You have your heart racing a bit is sweaty palms. You're zoned out. Have you ever felt the need desire to, like, run out of the room?"
+op,Yes. It's funny you should say that was a little bit hesitant to mention that but I kind of I do I feel like I need to find excuse to like use the bathroom or I just need to get out of there.
+irq,"Yeah, so what do you feel is most pressuring you to leave the room like what? What symptom?"
+gc,"Um,"
+irq,"And what thoughts are going through your mind right then like, so let's take that kind of severe moment. When you're, you're, let's just say still before the presentation, okay? So you're sitting at the desk and your heart rates elevated. And you're not focusing on what they're doing. You're zoned out your anxieties high. What was going through your mind right, then?"
+id,"I think I'm thinking, like, I'm gonna bomb this anyway. So I might as well just, you know, not go through the stress of having to do it. Like I've already in my head, I know that it's going to end badly."
+crq,So you've already failed.
+cd,"right. So there's no sense in getting up there. And maybe if I don't get up there, you know, I guess it couldn't be any worse. So I might as well just leave"
+yq,Are you embarrassed that the professor or Other students will see that you were really anxious?
+op,"Yeah, I don't want I figure if I leave and people won't, will just make me think I was sick or whatever. And it'll be a better situation, if I just left then happened to see me up there, you know, sweating and all these other symptoms that I have when I actually get up there, it would be better just to leave before that starts."
+crq,"Okay. So, so better to be thought ill and had to leave because you're saying. "
+cd,"Yeah, or have them wonder what happened then to just be up in front of everybody, you know,"
+crq,to have a severe anxiety for that buddy. And then they can very embarrassing. That would be a very undesirable outcome for you.
+cd,Right.
+irq,"So as you're debating that thought, because that's coming to your head, and you're thinking I just need to, yeah, gotta get out here. What happens there, so we're maybe What, 15 minutes before we present? So tell me about that. So you have that thought you want to flee,"
+id,"right. And I'm looking at the clock and saying, you know, like, how much more time in this presentation before I have to go like, should I go? Should I not go? What are the consequences of running out? You know, and kind of playing out, which would be worse?"
+yq,Have you ever had to run out?
+op,"Um, once I went to the bathroom to try to, like calm myself down or talk to myself, or you know, like, Cool off my face. Um, but I came back"
+crq,"and you presented then you presented Alright, so you you survived. One of the more stressful presentations"
+cd,"Yeah, I almost felt like I was gonna be ill. I was so stressed that day."
+irq,"That was very, very tough on you. What happened on that particular day?"
+id,"So typically, like, I go to load my presentation, at this point, like, I have my new cards or whatever, in front of me. I am like, shaking at this point. I am so I don't know if it's scared, or worried or maybe a combination of everything. And I'm just like sweating. My heart is racing. Like I almost feel dizzy. I'm just so stressed out about what's going to happen. And then you know, I'm starting to speak. And then the presentations are usually like 20 minutes or so. Okay, so I have to stay up there for the duration and I'm just like, you know, sweating and then I'm wondering like, are people looking at me or people? Can people see it? You know, am I going to forget something?"
+crq,"So the some of the thoughts are you wonder if they can see how anxious you are you wonder if you're gonna do poorly on the presentation,"
+cd,"right. Or they think I've been lazy and I didn't prepare, are they going to think that, you know, I'm dumb or I don't know, you know what I'm doing."
+crq,"So they might, they might think less of you as a person."
+cd,Right. Or like be judging me. Okay.
+id,Yeah. So there's a number of concerns that kind of going through your mind in that moment. So when does this start to turn around so you start presenting is 20 minutes you initially get up there and get your presentation up on the The projection monitor. Yeah. When does it start to turn the corner?
+id,"Um, it's depends sometimes I settled down a little bit, but then usually like that, I get some sort of rhythm I think. And then, but then it gets anxiety again until I get my grades. Do you know what I mean? And I'm like, until, because I feel like I'm gonna do poorly. Until that happens when"
+crq,when you receive the grades.
+cd,"Sometimes, like she usually doesn't give them that day but like often like the next day or the day after"
+yq,So does that intense anxiety that you're having while you're presenting last all the way?
+on,now? It definitely like dissipates once I can like go sit down.
+crq,"Okay, so so the sort of next big drop off for symptoms would be when you're done with  the presentation"
+cd,"Yeah, when eyes are maybe no longer on me. They've moved on to somebody else. So I figured like, okay, they forgot about me. I'm safe."
+yq,"All right, then. But then there's this other worry of now we have to see what the grades are right?"
+id,And I convince myself that I did poorly.
+yq,So the thought is going through your mind is I'm gonna receive a bad grade.
+op,"Yeah, and that everyone saw me, you know, sweating and all these symptoms that I have everyone is judging me"
+gt,"Hi, Hazel Hey doing today."
+gt,Okay.
+id,Okay. Yeah. I know when we met last time for your intake. You were concerned about some presentations that you had to give at school. Yeah. And you want to talk about that today?
+id,"Yes. So, in school. I am in school for teaching. And we have to give presentations a lot as you can imagine, on different things and So it's something that's recurring. And what happened was, I gave a really bad one one time. My way of presentation. Yeah, I wasn't feeling very well. And I gave, I think I was just really tired from studying all night and I gave a really bad presentation. And then like now ever since, like when I've tried to give subsequent presentations, I'm just so nervous, and I'm up there like sweating and like starting to forget what I'm gonna say. And I'm just like, a fear of, of getting up there and having to get a presentation because I feel like I'm gonna bomb it."
+irq,"Alright, so was there a time for like, recently when you had to give presentations?"
+id,"Yeah, I mean, like, before and earlier in my life, I'm towards the end of my degree. So you know, throughout program I have."
+irq,How would you consider those?
+id,"pretty well, I mean, I consider myself a pretty good student. So normally I do pretty well, it seemed to, you know, come out of nowhere."
+crq,"So this presentation you gave with that received a poor score, maybe it was just an isolated incident."
+cd,"Yeah, like I was saying I wasn't feeling very well."
+yq,"But that experience has still led to a lot of things anxiety with subsequent presentations,"
+op,"oh, yeah. Like, I'm worried about my grades suffering as a result. And you know how long well I'm going to do."
+yq,"All right. So, would it be okay if we kind of step through the whole process of giving a presentation"
+op,Sure. All right.
+irq,"Just before I start with that, is this something that leads to anxiety? Like right now or other times are really just in that moment when you're presenting?"
+id,"Mostly. It's most intense in that moment. And like maybe like leading up to it, like in preparation that I know that this is going to happen. Like, I always know when I'm going to present like, it'll be like the teacher will say, Oh, well, you know, your this Thursday, someone else's next Thursday. So the closer it gets to that event, the more anxious I am, like in anticipation."
+crq,"Okay, so you start feeling anxiety. A few days before presentation?"
+cd,"Yeah, I would say a few days mostly. "
+irq,When does it start to get really distressing for you?
+id,"like two days before or one day before that? I'm like, Oh, my gosh, like, Am I ready? Like what if I mess up? You know what if Get a bad grade all these like what ifs."
+irq,"Okay, so would you be okay if we step into this process and kind of break down the steps of the presentation? Alright, so let's so what's one of the classes you're taking now?"
+id,"early childhood,"
+irq,"So let's say you have a presentation in that class a few days from now. I just have just a normal presentation. Yeah. All right. So, Let's now move to two days out, where you would start to feel a little anxiety about it. Yeah. What's going through your mind at that two day out point?"
+id,"Um, I would say like, Am I prepared enough? Like, did I do enough?"
+yq,"All right. So your thought is, did I do enough preparation?"
+op,"Yeah. Which leads to maybe I did is what I'm really thinking like, I'm not prepared enough as I should be."
+irq,"So that's that's the thought you're having 40 hours before the presentation. I'm not prepared enough. And kind of thinking about that thought. And what happens afterward? Do you have a reaction like any type of emotional, affective, affective reaction to that?"
+id,"So at that point, I'm usually like, more like anxious, maybe like irritable a little bit. Mostly."
+irq,And that goes substantially unchanged that feeling for how long?
+id,"I'm like The day before it like kind of gets more intense when I'm like nitpicking like, well, I forgot this or I didn't forget this and, you know, remembering what happened last time when I didn't do so well and worrying about my grade, like more thoughts pop in my head of things that I forgot or what if sort of things."
+crq,"Right, so the same type of thought just more intense, more intense and the feeling is also more intense."
+cd,Yes.
+id,"So let's say you go into a house, you go to the community, okay? You go into a house and have an off day. Maybe worried about making mistakes, maybe stressed about that. Maybe tired. And there's some evidence there that you should be able to pick up but you just you don't write somebody lies to you about what the conditions there are You kind of realize that they might not be telling the truth, but you're you're ready to get home. So you leave and then somebody hurt when you have a worst case. That's the type of mistake you're afraid of making.  What would that feel like to make that mistake?"
+id,"Terrible, it would feel like, you know, I had a role in that kind of thing happening to somebody, like I was partially to blame for somebody being harmed. And that is like the exact opposite of what my job is supposed to be."
+id,"So that would be a worst case outcome. You would be extremely upset. You're extremely upset now. While you're five out of 10 right now, but you're an eight when you're in bed in the morning. Yeah. Is it reasonable that a professional makes a mistake like that? This is the mistake of kind of missing something that normally would be caught. Is it reasonable? They continue on in the field and try to learn from that."
+id,"I don't know, I mean, I'd like to think that I guess it's not possible to make that kind of mistake, but I think that that's naive. I think it is possible. And I, I would like to learn from that, but I don't know what other people would do. Like I don't know if I would lose my job or anything."
+id,"Right, there might be consequences for that type of error. It's not intentional, something that like many mistakes would happen due to conflict confluence of circumstances who being tired of being the end of the day, not being honest. There's mitigation there. But still, I can appreciate you would want to make that mistake either way. What would your after making a mistake like that? What would your thought be? Would you be thinking?"
+crq,"I would be thinking, I don't know how this will ever be better. I don't know how I'm ever gonna feel okay about what I did."
+cd,"To my extension, I'll never feel okay about what I did. Yeah. And what do you think you would do then in terms of your reaction to that thought?"
+gc,"I don't know. I mean, I guess ideally, I would say to myself, it's going to get better. You know, this will pass and everything but I don't know. It's just hard."
+irq,What do you think would do to your performance?
+id,"I think I would probably Take some time off. I mean, it's just like I would be so stressed afterwards. And worried I would make another mistake because I'm so stressed out and having trouble focusing."
+id,"So in a strange way, the anxiety, the thoughts you're having now that result in anxiety, are leaving you more at risk to make a mistake."
+ack,"Yeah, I mean, I guess I never thought about it like that, although that makes a lot of sense. Like it. If I, if I just calm down and try to let it go, then I'll do my job better and I won't have that risk as much. But if I keep feeling like this, I'm not focusing and then I could make a bigger mistake because of it."
+id,"Right, so one of the thoughts you're having now is you can't make a mistake because it would be too devastating. And that titles like this. I have a thought you're having. So it's like you can't make a mistake. And this is leaving you emotionally less prepared and probably increased risk of making a mistake."
+id,"Yes, you really get where they're coming from you really understand the suffering bowl."
+id,"Yeah, I guess maybe that's part of where it's so hard for me is like, I know that I'm causing a lot of suffering for people."
+irq,"Well, let's, let's talk about that. So you're in, you're in a position where you have to make some decisions about people's lives. And sometimes those decisions result in people being separated from the family. Sometimes they don't. Are you really the cause? In the larger picture? Are you really the cause of these families being broken up?"
+on,"I guess not like it's their actions, if they were doing the right things, even if I did come in their kids wouldn't be removed. But it is still hard to be the one that pulls that trigger, you know."
+id,"Well, you're the immediate cause kind of at the end of the whole process, but the true cause happened years or months before you got there as people made decisions that maybe weren't the best for their children for themselves. So you're really coming in, to some extent the tail end of a long series of behavioral choices"
+op,Yeah. That's true.
+irq,"Ultimately, for this family that's causing you the cycle that you're worried about. In kind of the looking at the long term lengths, do you think the children are better off? Because they're not with a family right now?"
+id,"I mean, if they get with a good family, which, you know, usually they do. It's, it's good for them, you know, maybe it could be a wake up call for the parents, or if not, at least the kids are getting their needs met and stuff like that. It's probably really hard for the kids and they probably want to go back to their parents. But I think overall, we wouldn't be doing this if we didn't think that it would be best for the kids to go to a place where they're going to be taken care of."
+id,"So immediately, there's some pain because you have to pick up the family but the long run. Maybe there's a better result. Even with that, though, let's talk about the concern you have about making a poor decision. So this based on what you're describing, do you believe this was actually a poor decision?"
+on,I guess not. It just feels like it is.
+id,"Yeah, it feels like it is. And it was a tough decision. But looking at it in the weight of the evidence. Maybe you can appreciate that you might have had to the same thing you if you go back in time."
+op,"Yeah. Yeah, I think so. And I'm not sure anybody else would have made a different decision either."
+id,So you really did what you had to do. Because there's still a pain component there for them. You're feeling torn. And you don't want to go through this again?
+on,"No, I mean, not this feeling. But I do want to keep doing my job."
+crq,"But doing your job in a world where you could make a mistake, that's not as appealing."
+cd,"Yeah, I mean, I guess I always knew I could make mistakes, but it just feels really real now, I guess that is the difference."
+id,"So in this particular instance, this what you're saying doesn't seem like a mistake. Let's consider a situation where you did make a mistake. That would be the worst case, right? We're just taking things to the worst case scenario. Okay. Your fear here is that in a sense, regardless of what already happened, going forward, you'd be mortified to make an error. Because this pain you're feeling right now. There's just a variable that's thrown everything into chaos for you. So looking around like where you work and and the history of your profession, what's the mistake you see people make from time to time and you'll be frightened of."
+id,I guess the biggest mistake you can really make is to miss some form of abuse or something like that.
+id,And then someone's hurt. Okay.
+id,"Well, I could see these types of decisions where you're talking about potentially breaking families up and having real consequences to families. I could see how these decisions could be. I'm sure there's guidelines you are supposed to follow that you really don't have a whole lot of choice in. But you could also really agonize and overanalyze a decision like that because the consequences are so great. Maybe somehing that could be happening."
+id,"Yeah, I think so. I mean, you're right. To a certain extent, we have guidelines and everything like that. But I also feel like certain things, it just isn't black and white, and I have to make a judgment call. And I used to trust my judgment, but now I feel like how do I know that I'm making the right decisions?"
+id,"Yeah. Well, and this is really the one of the key parts of what may be causing this distress. We talked about this insecurity. You're on this I'm sure. And so you know, one question may be, did you make a efficient or less efficient decision with this particular family but the larger question is, you as a person can you can you do this, this job and if you do it and make money Like, what would you do then? Could you go through this again?"
+id,"Yeah, I think that's where the fear is, is that if 99 times out of 100 I do it right, there's still gonna be that one that I messed up. And I'm starting to feel like that one mistake could be like, life changing for somebody."
+id,"And it could be you certainly in a job where, like, most jobs where mistakes have consequences. You also do a lot of good for a lot of people. So by you not being in the field. They're not getting the benefit of the skills you have."
+id,"I guess that's true. Like, yeah, maybe somebody else could come and replace me but do I think that they would be better at it? I don't know. I feel like I was pretty good at it before I started. have all these doubt."
+id,"So, so mostly This was good until recently. Well, alright, let's look at this from another point of view. You really seem like, you can empathize with these families. You really, to me, it seems like you really know what they're feeling."
+ack,Yeah I care about them
+irq,"and appreciating their perspective. Take a moment and try to walk in their shoes. If a professional like yourself came to you and your family situation and maybe you're engaged in the activities where it was warranted that your family we've broken up temporarily. What would you want? How would you want them to process that? Like you said, thinking about the caseworker from the point of view of the family? How would you want them to feel that? Would you want them to process that decision?"
+id,"I don't know. That's a hard question. I mean, if they took my kids away, even if it was the right thing, I would want them to be at least a little bit, you know, feel a little bit bad about having to make such a hard decision. But I guess if, you know, if they fell apart, every time that they made that kind of decision, they wouldn't be able to help other people."
+id,"So from the family's point of view, if you're in that situation, you can appreciate what the caseworker has to do. Well, you'd like to have some compassion for you. Okay, that seems reasonable. Yeah. So now flip back into the role you're in. You made the decision you had to make although you're second guessing it That's separate. Do you have compassion for them?"
+id," Yeah, I mean, I think that might be the problem is I have too much of it. You know, I worry about how they feel, even if maybe taking the kids away was the right thing. It's just like so devastating. To lose your kids, whether you're doing the right things or not, you know, you want your kids with you. You want to be able to take care of them, even if you're not doing a really good job at it."
+irq,"So, alright, let's take a step back and talk about competency. What education Did you need for the job you have now?"
+id,I have my bachelor's degree. And we got a little bit of training. You know every so often we get some training at work and stuff like that.
+yq,Are you evaluated at work by anybody to see if you're in a job you should be?
+op,"Yeah, I have a supervisor so they check up on stuff and also like if I feel like I have questions and stuff like that, I can go to them as well."
+yq,Have you been Found in that system to be somebody who's satisfying the requirements of in terms of competency satisfy the requirements of employee.
+op,"Yeah, I mean, I haven't been fired. So that's a good sign again,"
+yq,"that's a good sign. Yeah, you haven't been fired. Have you ever had any type of write up or somebody discussing something with you?"
+on,"No, I just I kind of feel like maybe the climate has changed a little bit at the office after this happened, like maybe other people think I didn't make the right decision. I guess maybe that's part of where all my doubts are coming from, like, no one has said to me and I have, you know, my supervisor hasn't called me in and said, I'm concerned about this, but I just feel like maybe  other people think that I did something wrong."
+crq,"Alright, so there's no there's no evidence supporting that. In a kind of a direct fashion, like a supervisor coming to, but there's no other evidence supporting it based on your, what you're feeling, how you're perceiving things. Yeah, you're getting this feeling that, by the way, they're interacting with you."
+id,"Yeah. Which, I guess maybe I shouldn't be that freaked out about because there have been other people who have made mistakes and like, the supervisors have talked to them and, you know, even then they didn't lose their jobs. So it's not like, you know, I, you know, I don't know, I guess it's not like just hearing them, or thinking that they're judging me is an indication that something terrible is going to happen or that I made this huge mistake."
+id,"Alright, so you can see that I'm talking this through you can see that. So some of this could be feelings. Thoughts you're having, combined with what you're actually observing share, you're filtering your observations in a way that's maybe making them seem a little more destructive, or more negative."
+id,"Yeah, it's kind of like, I know, it's not that big of a deal because, like I said, My supervisor hasn't talked to me and it's not like I've heard anything terrible about anything happening to the kids or anything like that. But I just feel like, you know, I have those thoughts like, oh, was she you know, saying something? You know, when she said that? Did she was she referring to what happened? and stuff like that?"
+irq,Can you can you provide an example of an interaction with a coworker where where they said something that you thought maybe was referring back to this?
+id,"Yeah. So like we were having like our regular work week. And we kind of like, you know, discuss how things are going. And it's been kind of a big deal what, you know, more so than usual that the kids were removed from this family. So, you know, one of my co workers kind of nudged me and said, like, oh, you're the bulldozer you, you know, you plowed right through that family took those kids away. And, you know, I think she meant it kind of, like as a joke and just, you know, maybe to say, like, you know, you did what you needed to do, but it kind of made me feel like does she think that I'm just callous? Like, does she think that I just didn't care and you get what I'm saying?"
+id,"So she referred to as a bulldozer. And one way to take that would be powerful, efficient. Another way to take that would be kind of destructive we talked about before destructive powers. They're mechanical they don't have a lot of feeling."
+ack,Yeah.
+id,So you don't know exactly know how she meant it but you're thinking maybe it was negative
+id,"yeah. And I guess it kind of like goes back to like my fear that I didn't think it through that I kind of just, you know, I made the report and that was that and, you know, it makes me feel like Was I being mechanical? Was I just was I just nonchalant about it? Should I have put more thought into it? And it really, you know, it hit me where it hurt I guess you know."
+crq,So her saying that really kind of brought up this thought that maybe you are maybe you are not empathetic enough or compassionate enough.
+cd,"Or even just thoughtful. I guess maybe I was just being, you know, just going about my job without putting a lot of thought into What I was doing exactly."
+id,"So, maybe one thing you would have done differently in light of that comment. At the time making a decision, you would have thought through the steps more."
+ack,"Yeah, maybe taking a little bit more time."
+irq,"So, can you think of another case you're working on another family different than the one that we've initially talked about? Where you've made a decision that seemed like was fairly clear caught like one you would have made before and yet you're, you're thinking about it replaying it?"
+id,"Yeah, I have this case. You know recently where it's a single dad, the mom passed away and I go in and check on him and his son, you You know, things are going well, but, you know, I think the dad has a hard time so it's not like it was before when the mom was there. Not that I wasn't there before that but you can just tell that like, things are a little different. But you know, obviously, my decision is that things are going well for the kid, you know, they're gonna he's gonna stay there. Dad is stable, but I just worried like, is the dad under too much stress? Is he really taking care of the kid as good as you know, what if he's just cleaning up the house and doing the right things on there while I'm not there? You know, does he have the energy to take care of his kid? Or is everything really the way I it appears? Or is there more going on? I just don't know."
+ack,Right. So you're handling it to the best of your ability. But there's still these these thoughts that are coming out. Kind of encouraging you to second guess your judgment?
+id,"Yeah. And it's like, I can't let it go. Like, I saw him like two weeks ago. And I still wonder if I have other cases like that. It's like, they're all running through my head. And I have these thoughts like, Did I do the right thing? Can I do the right thing?"
+crq,"Maybe what if, what if the worst happens?"
+cd,"And I didn't see it. Like, what if something terrible happens? And I should have known better."
+id,"So it speaks back to your competency as a professional again. So that's, that seems to be court this. I think Here are several things you talk about seem to connect back to. Are you capable to be in this field? And should you be trusted?"
+op,"Yeah, definitely."
+id,"So coming back to thinking there are errors and thinking that all people make. And when these errors become repetitive and you can kind of see them applied in more than one areas of his life. We refer to that as a cognitive distortion. Okay? It's not bad or good. It's just how people think. It's just patterns that people fall into. And there are several different cognitive distortions, there's several patterns that we kind of see. come up often in this work, right as a counselor, wondering, in the situation where you're thinking, the worst possible outcome is unbearable, or likely or both. If you may be really focusing and emphasizing on that, to the exclusion of other evidence that suggests you've made a good decision. I see you're really focused on the negative outcome, the worst possible and maybe even unlikely outcome. And maybe not weighing all the evidence with the same weight, like you're putting more weight on the negative pay, that kind of makes sense."
+id,"Yeah. I mean, I think that that's probably true. Because before I felt fine, and now I just feel like everything's falling apart and not that much has changed. And so it kind of makes me think that that's probably what's going on, but I don't know how to change that."
+id,This is frustrating for you. Yeah. The self doubt is worrying.
+id,"You okay now kind of taking a look at some of your thinking and situation from that point of view, okay. Some things kind of stand out for me and hearing you talk about what's been happening and your feelings I can appreciate. It's really painful. And I would say to the reader that you can step back and try to look at the thoughts. I think that you'll see it's it's helpful although I know It's a little difficult or unusual to separate feelings from thoughts sometimes. But I'd like to try to kind of distinguish between the two. Okay. You said that you've been at your job for about five years. You really like your job. So tell me about your job, like kind of how you felt about it, but frame it in a time before this ever happened."
+id,"I like my job because I felt like I was helping people. So it was meaningful. And, you know, when I went there, Time went by fast. So it was kind of like, I was enjoying myself, you know, not super fast. I wasn't having the best time of my life, but it was something where I would go and you know, I felt like I was doing something important and the day didn't drag on and, you know, I got along with my co workers and that kind of thing. So it felt meaningful to me. meaningful."
+crq,"So you remember accomplishing things at that job that you felt benefits society, the people you help."
+cd,"Yeah, I feel like, you know, doing my job, I got to know people, you know, help people out with things that they needed. You know, when things were bad I could, you know, get kids out of situations that were really dangerous for them and, you know, no one else was going to do that for them. So I felt like I was the kind of person that was making keeping people safe. I guess."
+yq,You kept people safe. And you had a lot of satisfaction from the work you did. And now doesn't feel that way?
+on," Now, not at all. "
+crq,"When you described it, it almost sounds like you talked about how you're afraid of making a mistake. You're thinking about yourself in a way where you're almost risk."
+id,"Yeah, I was just about to say it feels dangerous. To be there like to do my job, it feels dangerous."
+id,"Your your work right now even though you have this one, situations extremely stressful and hard on you. You have other families that you interact with now to you tell me about those interactions."
+id,"I mean, I guess it's like, quantitatively the same as before. I do the same things with families. But now I kind of feel like I can't trust my own judgment like everything. Before everything just kind of felt a little more black and white, and now it just feels like everything is so much a shade of gray that I just can't tell. You know what's right and what's wrong anymore. And every time I feel like I have a good instinct I doubt it I question it I have all these ideas of, well, you know, if I remove the kids from this family, what if they're not really doing the things? I think they're doing? Like what if the parents are actually good parents? What if the kids get put into a home that's bad for them?"
+id,So this is maybe what's different. This what you're saying from before till now? Is decisions seemed clear cut.
+id,"Yeah, sometimes it was tougher than others, but it just seemed more like I could make a decision and kind of wipe my hands of it and, you know, move on to the next thing. And now I just feel like there's all these doubts in my head and all these questions about if I'm doing the right thing."
+irq,"All right. So you're looking inward, you're looking at yourself a lot of self doubt. Now you're looking at decisions as much more difficult. It's much more difficult to come to the right decision. And second guessing sounds like move to second guessing a bit. When you do make a decision, like playing over over your mind. What could go wrong here? Is that the thought you're having?"
+id,"Yeah, yeah, definitely. I feel like I'm second guessing everything."
+irq,"So you mentioned before that when you wake up in the morning, you you don't want to go to work, what's going through your mind?"
+id,"I'm gonna have to, you know, hear what my coworkers have to say about what's going on. I might make another mistake. Who knows if I'm going to find out that something terrible happened to these kids when I go back to work? I guess a lot of stuff like that."
+id,"So looking into one I'm going to make a mistake. That kind of connects to what we were talking about before it says the uncertainty, you're not sure of your own skills and you're afraid of an error that's going to be costly. So when you think that thought, I'm gonna make a mistake, so this is when you're, when you're in bed before you start your day, and you have that thought, what happens right then?"
+id,"I feel more anxious. You know, I think about like, what could happen to somebody else if I make a mistake, like kids going to the wrong home or, you know, not being with their parents when their parents you know, we're not doing anything wrong. And I just feel really like overwhelmed and it gets hard to breathe and I just want to go back to sleep and not have to face anything."
+id,So there's emotional consequences. And then the behaviors. You don't want to get out of bed.
+id,And then a lot more lately because I have trouble getting out of it.
+irq,"When you're staying in bed, are you under more thoughts coming up?"
+id.crq,"So this is really weighing on you. And he was edified these thoughts that seem to be connected with feelings that are unpleasant, and behaviors are unpleasant, but also maybe not useful."
+cd,"Yeah, they're keeping me from getting the work and stuff like that."
+irq,"So we have a reference point for later on as we continue counseling. I'd like to scale this problem like maybe on a scale of one to 10, where 10 represents feelings that are nearly unbearable, right? And one not really a problem. How do you feel on that scale? Where do you rate yourself right now?"
+id,"Right now in this moment, probably like a five. Around the middle. Yeah, like I'm really stressed out but I not like when I'm in bed, like I can't get out of bed, that kind of thing."
+irq,How would you rate yourself when you're in bed before you go to work? 
+id,Probably like an eight.
+irq,"So an eight sometimes nine, right now five, so still not feeling great. Have you had to pick an emotion of standing out above the rest in anxiety, sadness, sense of dread. What would be the worst right now?"
+id,Right now probably anxiety.
+id,"So five, on a scale 10 inside is really standing out more"
+id,Has it made you rethink your entire job in the profession?
+id,"Yeah, I mean, it's making me think like, you know, if I just had some desk job, like if I just crunched numbers or something, I would never have to have this responsibility. Like, why would they trust me with a job like this? Like, I'm just a human being who, you know, doesn't know any better than any other person and I just don't know if I can do this. It's just so much responsible. And I guess, I guess before I felt like I could handle it. And now I just feel like it's so much responsibility for one person. And I don't think that I can handle it anymore. But I don't want to change jobs because I've been here for so long. And I liked it before. I don't know."
+crq,you're fearful of this happening again.
+cd,"Yes,"
+irq,And how you may handle it? what may happen?
+id,"I feel like it's just around the corner. And this isn't even resolved. I'm still afraid of the consequences of this, you know, like, what if, you know, you know, these kids are out of their parents home. And I just feel like what if something bad happens to them where they are now and then that's going to fall on me and, you know, people, like other my co workers know that I'm the one that did this. So like, if something happens to the kids, like, I'm going to be the one that they're going to blame for it."
+id,"So just to make sure, I understand your Report. So they were engaging in these behaviors. And your report, just what precipitated the them being broken up."
+ack,"Yeah. Because, you know, before that, I guess, you know, probably nobody else would have known about it. So I made the report about what was going on. And I think Yeah, as a direct result."
+id,"Alright, let's, let's take a look at the habits, right. So, in CBT, we like to evaluate evidence and try to look at the facts as we understand them. And really, we want to scrutinize and carefully review the facts and the evidence and hold a light to it and try to figure out what's going on. Right. What would have happened with this family if you hadn't work, no one intervened?"
+id,"I don't know. I mean, it wasn't going great for the kids. It wasn't really great environment. But I just feel like if I had left it alone, I don't know that the kids would be with their parents."
+irq,"So they all be together. And you feel like, right now. He's saying with them being a part. That sounds good. Is that fair together?"
+id,"Yeah, I mean, I guess. I guess I feel like it's probably wasn't great for them to be there. I mean, that's why I made the report. That's my job, but it just feels like, you know, I just feels like I'm playing God. You know what I mean? Like, I'm just coming in here and spend like 5-10 minutes with a family and then totally turn their whole world upside down."
+crq,"you have a tremendous amount of power And if you misuse that power, you could devastate families. That's maybe what you You think happened to you? "
+op,Yeah.
+id," So going back to what would have happened to them, let me just step back there for a moment. They would still be together without your intervention. And that could be a positive. What about consequences that maybe were negative?"
+id,"Well, I mean, like I said, I thought they were using drugs in the home. So that's like a really dangerous situation for kids to be in, because you don't know what kind of people are coming in and out of the home, if their parents are going to be, you know, coherent enough to help them if there's an emergency or if the parents are even making them food and taking care of their needs and stuff like that. So I guess in that sense, that's really concerning. And that's a big part of the reason why I made the report."
+id,"You made the report because it's your responsibility, but also you had concerns about their welfare. If you could go back and do it again. would you change anything?"
+id,"I don't know. I guess that's just the hardest part for me is like, I feel like I can't make the right decision. I just feel like I don't know if I'm equipped to be the person to make that kind of decision."
+crq,"So you don't know if you made a good decision or not. And further, you question your ability going forward to make decisions. "
+ack,"Yeah, definitely. That's the uncertainty, anxiety."
+irq,"So now as you kind of take a emotional inventory of your stress and worry and anxiety and you scale it, how would you put yourself now?"
+id,I think is probably closer to three now feeling more hopeful and kind of not feeling I guess maybe feeling like it's a little bit less of a big deal than I felt like when I came in
+crq,"so some of the some of the intimidation of the concerns have been relaxed a bit as backed off,"
+cd,"it comes and goes,"
+id,"it's still there. Three is still suffering, but not as much as before. And not nearly as much as the peak. "
+ack,"Yeah, yeah."
+yq,"Do you think going forward, you can apply this self talk in the morning, when that automatic clock comes up, like we make that kind of plan."
+op,"Yeah, I think that'll be good because then also in the morning, I'll remember it's the morning and having these thoughts I need to do this."
+id,"There are a lot of places we're going to go. As we talk about CBT and how it relates to what you're going through. I don't want to put too much on you at one time. So I'm kind of deliberately not going to a long explanation, the theory and not assigned A lot of homework, the homework is an important part of it. Okay? And one that I feel is in the best interest of clients to really take seriously and make a best effort to do. Okay. So, I'd like that to be one of the, you know, if you're okay with it, that'd be one homework steps, and the other one. So just just be two things for this week. So that self talk in the morning, and the other one was, is really just starting to cultivate an awareness in the day of when you're having these automatic thoughts. So these automatic thoughts proceed. feelings, and behaviors that you don't like, like feeling worried. So they're a little hard to pick up at first, because you're already having the feeling before you even think, to think about the thought, if that makes sense. And there's a few steps But you're already having the feeling of worry. And now I'm asking you to stop in that moment and try to recover the thought that led to that. Yeah. So that's not an easy request, satisfied to starting out with just try to bring up an awareness of that. If you can, I think super helpful, the best way is to write it down, if it's safe to do so. And if you can't, okay. So perhaps sometime today, you find yourself extra worried. And then you think back to what was going through your mind. And you find it was worrying about the welfare of the family, like a thought like, oh, they're not doing so well. Just don't judge the thought. Just write down. I was thinking to the family that might not be doing so well."
+ack,Okay. What should I do with it? Should I like write it on a sticky note and get rid of it? Should I keep it in a journal or?
+cd,"Good question. I would say keep in touch. journal, okay, and bring it in. To the extent you're comfortable talking about, we can go over. Okay. And we'll try to together develop self talk to address that. Okay. So we're going to build, we're going to build an inventory of adaptive responses. Okay. Does that make sense? Do you have any questions about or concerns about today in common we talked about?"
+on,"No, I mean, I think it was really helpful. I just had to remember to, you know, kind of combat things in the morning and then as the day goes by, if I notice any other thoughts, just write it down and everything. I can do that."
+id,"I think that would be a great start. And we'll set up a time for down here for another point for next week. We'll get that all situated. But I want to Close just by letting you know, kind of my impressions from on this first session. Okay. I know you have worries, and I am working on understanding them with the family and the decision you made and I can certainly appreciate it's it's a struggle for you. At the same time I see somebody very conscientious. No, you're, you're very concerned about the work you do. You're concerned about the people you're act with. compassionate, empathetic. I see a lot of strength in terms of your ability to understand these concepts I'm talking about and apply them in your life. So I want you to take away from this I hope you take away from this, that you should be helpful. I feel like you have a lot of positive characteristics and strengths that you Bring to overcome the struggle, and I think you'll be stronger as a result of working to overcome. Does that resonate with you? How do you think of yourself?"
+id,"Yeah, I mean, I think, you know, I've worked a lot to help other people. So I think I probably do have the ability to help myself as well. And I also believe that, you know, if I do the work, then in the future, when stuff makes me stressed out, I might be a little better at handling it."
+id,"Yeah, so I hope that you'll be able to overcome what's going on now. But also build a skill set that you can use to overcome new challenges, because you'll face new ones. And I want you to be the most prepared you can be I feel like even though you have these worries and anxieties, I want I'd like you to remember you have a lot of strengths. I feel like you can do pretty well with this. So we'll stop there. If You're good and we'll set you up for appointments next week."
+gt,Okay. Thank you.
+gt,"Thanks, sir."
+irq,How many times have you gone to work and made a mistake?
+id,"I don't know. I mean, I guess none technically none that have been something I've gotten trouble for anything like that. Sometimes it's hard to tell because you know, you don't always hear from people afterwards. You can't really tell was it a mistake or not. But I guess none that it had like any major consequences."
+id,"So none, but there might be a few small ones that you've just never found out about. So Less than a 10th of a percent days you come in probably very small, really, really small. The probability of a statement that you're making being true, is pretty low. The seventh thought rather, I'm going to make a mistake. Probably not supported by the evidence."
+ack," Yeah, I guess that's true. "
+id,"So, the automatic thought is not accurate and not useful. I just got a couple strikes against it. But it is the thought you're having so let's deal with it. I'm going to make a mistake. So what could you tell yourself as the first part of that adaptive response, which acknowledges that fear that's realistic, that acknowledges that fear of making a mistake"
+id,I guess like it Everybody makes mistakes.
+id,"Everybody makes mistakes. I could make a mistake today, but it's unlikely that that also be accurate. So everybody makes mistakes. I could make a mistake, but it's probably not gonna happen. Rather than I'm going to make a mistake. So you're going to have that automatic thought either way, likely for a while until you start to apply these adaptive responses. So this is what we're working on is your response. So everybody makes mistakes, I could make a mistake probably not going to happen. And will could be a next part, which is realistic, but also positive. That can help get you past the reaction of being late morning."
+id,I'm a good caseworker and I need to do my job so I can help other people and it's going to be okay.
+id,"Okay, so there's a few few elements in there. It's going to be okay, I need to do my The job I help people all those all those are true So applying as you know even as you say this year with me as you say, it's gonna be okay I need to my shop. What are we actually having right now?"
+id,I mean it feels a little better but it's hard you know so I felt still feel like it's dangerous I might make a mistake but I guess it helps a little bit
+id,Can you see yourself being able to in the moment and I realize this is difficult but in the moment of having that on that thought and that word come in. Can you see yourself applying this self talk?
+op,"Yeah, I think I probably will because now it will be hard to have those thoughts and not think of you . Okay, I need to calm myself down a little bit."
+yq,And you've already used self talk on your own before even knew about these?
+op,Yeah. It did help in the past.
+id,"A lot of the corsage to some of the effectiveness of this is based on your ability in that moment to take a step back and follow the training. Right, just like many professionals, professionals depend on their training to help them make the correct intervention correct decision. So think of this kind of like something you've learned in the training. This is a self talk. It's pre packaged, it's ready to go. You can even have it written down. Okay? Doesn't have to be short. It can be like a paragraph, or more if you want as a matter of following the protocol. Once you have the automatic thought, it's easy to descend into worry and fear. You're just looking too quick to grab a moment in there. Apply this treatment strategy. Does that make sense? Sometimes it's likely Well, most of the time, I think you would you would be able to do this. Sometimes you probably won't as important in those moments to not get discouraged. Right. So you can have a self talk for that to write something like Dr. Crowley said it was likely that once a while I wouldn't build do this."
+id,it's not gonna work every time.
+crq,Make sense?
+cd,"Yeah, that makes a lot of sense."
+id,"So it's the chaos of life, right in the chaos of emotions that sometimes interfere. the more times you have success, that that seems to be tied with a better chance of improving and reduction of symptoms, but allow yourself failures. Well, it's what I would expect from anybody trying to untangle all these feelings and thoughts. There's not gonna be a perfect connection between that automatic thought and applied self talk. Okay, so be easy on yourself as soon as you can,"
+id,"that makes sense because like, if you could just flip a switch you I would only have to have one therapy session."
+id,"It'd be good shape, right? so it's a little more difficult than that. But overall, this these strategies are fairly straightforward. And you can definitely learn them and you can definitely do them. I want you to have that confidence. It's, it's normal to have mistakes occur. And to not always do it as you need to as you want to, but in the end, overall, you should be able to be able to apply them and actually It'll get easier in the future to develop your self talk for different thoughts. Okay?"
+id,"So let's talk about this. So those type of thoughts, like I can't make a mistake or something like that. We call this automatic thoughts. And we'll have plenty of time talk about the different structures in CBT. I do want to explain it to you but over the course of several sessions, let's just take pieces of it for now. Okay. So far we believe is that your beliefs combined with a situation and create these thoughts. So you have this belief, so you're laying in bed for work, and you have this belief that you're maybe not competent. And then the situation that combines with that is, it's time to go to work. So the stress of No, it being time to actually get up and get ready to work. And then you have an automatic thought in that moment. Can right now it's one tied to dread and fear. Let's try to identify an exact one for this example. So let's use that scenario. You believe that you might not be confident you're laying in bed, and the alarm clock goes off. So you're kind of pressured to make a decision about do I get ready for work or not? What's the thought right then?"
+id,"if I go to work I'm going to make a mistake,"
+id,"So if I go, I'm going to make a mistake. And then we talked about your reactions being late. Worry, anxiety. So what we'd like to do when we identify on that felt like that is what's called self talk. And it first this may seem a little odd, right? So you have this thought that comes through it can be an image to the thought image. But it's cognitive in nature. And I can't make a mistake, like, I'm going to make a mistake. I'm going to make a mistake. That's your thought. And the self talk. This is like a rehearsed statement that you literally say to yourself, which again, I get to that seems so odd The first time I do it. So really, you're talking to yourself But over time, we believe if you can keep applying the self talk strategy that you will eventually change the outcome, the reaction and change the underlying belief. Okay? It first though it's going to seem quite foreign to you. Tell me how you how you're processing this now. "
+crq,"So I mean, what am I supposed to say to myself?"
+id,"It's a good question. We'll work on that. And that's what we can do now. Let's take a look at some self talk. So some adaptive responses so they can build. So I'm going to make a mistake. That's the automatic thought that's directly leading. Seems to be to feeling supported dread, and physically not getting work on time. Has there ever been times when you've had that thought? And you went to work on time still? "
+op,Yeah.
+irq,What was different about those times?
+id,"I guess I told myself, I have to get to work on time because if I don't, it's going to be even worse. If I make a mistake, and I'm late that it just, you know, it compounds and I guess I would tell myself, it's gonna be okay. You just have to get through this day. "
+id,"Alright, so when you do that, in essence, you are applying self talk. Okay. All right. So that's, that's really the same thing except you probably didn't have a label for it. And when you apply that it seems to work. So the message you're kind of sending yourself now you're telling yourself is I'm going to make a mistake still. But if I'm late for work, I'll be worse. So there's a little bit of positive and negative in here. Right self talk doesn't have to be all positive self talk needs to be, I think when anything realistic and sometimes realistic includes a little negativity. I'd rather focus on the more positive elements as we build this as possible though, so that's pretty good self talk you have now let's work on refining it a little bit to maximize its benefit."
