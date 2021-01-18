@@ -314,3 +314,15 @@ Loss is: 2.522238.
 Loss is: 2.365435.
 2020-12-27 19:50:39 : WARNING  Train performance at epoch 1 is precision: 0.238964, recall: 0.238964, fscore: 0.238964, macro-fscore: 0.021430, right: 2842, predict: 11893, standard: 11893.
 Loss is: 23.466238.
+2021-01-18 22:15:06 : WARNING  Train performance at epoch 1 is precision: 0.481544, recall: 0.481544, fscore: 0.481544, macro-fscore: 0.228667, right: 5727, predict: 11893, standard: 11893.
+Loss is: 1.630525.
+2021-01-18 22:15:08 : WARNING  Validate performance at epoch 1 is precision: 0.531401, recall: 0.531401, fscore: 0.531401, macro-fscore: 0.234667, right: 220, predict: 414, standard: 414.
+Loss is: 1.570346.
+2021-01-18 22:15:10 : WARNING  test performance at epoch 1 is precision: 0.503311, recall: 0.503311, fscore: 0.503311, macro-fscore: 0.230614, right: 304, predict: 604, standard: 604.
+Loss is: 1.624166.
+2021-01-18 22:19:38 : WARNING  Train performance at epoch 1 is precision: 0.481544, recall: 0.481544, fscore: 0.481544, macro-fscore: 0.228667, right: 5727, predict: 11893, standard: 11893.
+Loss is: 1.630525.
+2021-01-18 22:19:40 : WARNING  Validate performance at epoch 1 is precision: 0.531401, recall: 0.531401, fscore: 0.531401, macro-fscore: 0.234667, right: 220, predict: 414, standard: 414.
+Loss is: 1.570346.
+2021-01-18 22:19:42 : WARNING  test performance at epoch 1 is precision: 0.503311, recall: 0.503311, fscore: 0.503311, macro-fscore: 0.230614, right: 304, predict: 604, standard: 604.
+Loss is: 1.624166.

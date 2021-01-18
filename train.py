@@ -42,7 +42,7 @@ from model.classification.hmcn import HMCN
 from model.loss import ClassificationLoss
 from model.model_util import get_optimizer, get_hierar_relations
 from util import ModeType
-
+# from evaluate.classification_evaluate.ClassificationEvaluator import save_confusion_matrix
 
 ClassificationDataset, ClassificationCollator, FastTextCollator, ClassificationLoss, cEvaluator
 FastText, TextCNN, TextRNN, TextRCNN, DRNN, TextVDCNN, Transformer, DPCNN, AttentiveConvNet, RegionEmbedding
@@ -162,7 +162,7 @@ class ClassificationTrainer(object):
             standard_labels.extend(batch[ClassificationDataset.DOC_LABEL_LIST])
         if mode == ModeType.EVAL:
             total_loss = total_loss / num_batch
-            (_, precision_list, recall_list, fscore_list, right_list,
+            (conf_matrix_list, precision_list, recall_list, fscore_list, right_list,
              predict_list, standard_list) = \
                 self.evaluator.evaluate(
                     predict_probs, standard_label_ids=standard_labels, label_map=self.label_map,
@@ -181,7 +181,7 @@ class ClassificationTrainer(object):
                     right_list[0][cEvaluator.MICRO_AVERAGE],
                     predict_list[0][cEvaluator.MICRO_AVERAGE],
                         standard_list[0][cEvaluator.MICRO_AVERAGE], total_loss))
-            return fscore_list[0][cEvaluator.MICRO_AVERAGE]
+            return conf_matrix_list,fscore_list[0][cEvaluator.MICRO_AVERAGE]
 
 
 def load_checkpoint(file_name, conf, model, optimizer):
@@ -226,12 +226,14 @@ def train(conf):
         start_time = time.time()
         trainer.train(train_data_loader, model, optimizer, "Train", epoch)
         trainer.eval(train_data_loader, model, optimizer, "Train", epoch)
-        performance = trainer.eval(
+        conf_mat_list_val,performance = trainer.eval(
             validate_data_loader, model, optimizer, "Validate", epoch)
-        trainer.eval(test_data_loader, model, optimizer, "test", epoch)
+        conf_mat_list_val,trainer.eval(test_data_loader, model, optimizer, "test", epoch)
         if performance > best_performance:  # record the best model
             best_epoch = epoch
             best_performance = performance
+        # cEvaluator.save_confusion_matrix('conf_matrix.csv',conf_mat_list_val)
+        cEvaluator.save()
         save_checkpoint({
             'epoch': epoch,
             'model_name': model_name,
@@ -244,6 +246,7 @@ def train(conf):
 
     # best model on validateion set
     best_epoch_file_name = model_file_prefix + "_" + str(best_epoch)
+    # save_confusion_matrix()
     best_file_name = model_file_prefix + "_best"
     shutil.copyfile(best_epoch_file_name, best_file_name)
 
