@@ -8,8 +8,8 @@
   },
   "device": "cuda",
   "model_name": "DRNN",
-  "checkpoint_dir": "checkpoint_dir_a2g",
-  "model_dir": "trained_model_a2g",
+  "checkpoint_dir": "checkpoint_dir_a2g_merged",
+  "model_dir": "trained_model_a2g_merged",
   "data": {
     "train_json_files": [
       "data/a2g_train.json"

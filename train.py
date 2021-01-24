@@ -233,7 +233,7 @@ def train(conf):
             best_epoch = epoch
             best_performance = performance
         # cEvaluator.save_confusion_matrix('conf_matrix.csv',conf_mat_list_val)
-        cEvaluator.save()
+        cEvaluator.save(evaluator)
         save_checkpoint({
             'epoch': epoch,
             'model_name': model_name,
