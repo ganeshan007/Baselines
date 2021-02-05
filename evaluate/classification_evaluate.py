@@ -254,7 +254,7 @@ class ClassificationEvaluator(object):
                 _init_count_dict(label_to_id_maps[i]))
 
         line_count = 0
-        debug_file = open("probs.txt", "w", encoding=cDataset.CHARSET)
+        debug_file = open("probsvdcnn.txt", "w", encoding=cDataset.CHARSET)
         for predict in predicts:
             if is_prob:
                 prob_np = np.array(predict, dtype=np.float32)

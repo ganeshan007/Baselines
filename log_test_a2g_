@@ -1,0 +1,2 @@
+2021-02-05 21:40:20 : WARNING  Train performance at epoch 1 is precision: 0.327924, recall: 0.327924, fscore: 0.327924, macro-fscore: 0.086277, right: 3900, predict: 11893, standard: 11893.
+Loss is: 1.761969.

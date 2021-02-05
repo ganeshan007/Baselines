@@ -7,7 +7,7 @@
     "hierar_penalty": 0.000001
   },
   "device": "cuda",
-  "model_name": "DRNN",
+  "model_name": "TextVDCNN",
   "checkpoint_dir": "checkpoint_dir_a2g_merged",
   "model_dir": "trained_model_a2g_merged",
   "data": {
@@ -107,11 +107,11 @@
   "eval": {
     "text_file": "data/a2g_test.json",
     "threshold": 0.5,
-    "dir": "swda_eval_dir",
+    "dir": "a2g_eval_dir",
     "batch_size": 1024,
     "is_flat": true,
     "top_k": 100,
-    "model_dir": "checkpoint_dir_a2g/TextCNN_best"
+    "model_dir": "checkpoint_dir_a2g/"
   },
   "TextVDCNN": {
     "vdcnn_depth": 9,
@@ -156,7 +156,7 @@
     "global2local": [0, 16, 192, 512, 64]
   },
   "log": {
-    "logger_file": "log_test_swda1_",
+    "logger_file": "log_test_a2g_",
     "log_level": "warn"
   }
 }
